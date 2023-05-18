@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DGII.Test": {
+      "commandName": "Project",
+      "remoteDebugEnabled": true,
+      "nativeDebugging": true,
+      "jsWebView2Debugging": true
+    }
+  }
+}
